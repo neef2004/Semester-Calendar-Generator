@@ -30,6 +30,7 @@ Run the Program
 🔎 Follow the Input Prompts
 	•	The program will ask for course name, meeting days, start and end times, and location.
 	•	Example interaction listed at the bottom
+
 📖 Future Improvements
 	•	OCR Support – Allow users to upload images of their class schedules instead of manually entering data.
 	•	Google Calendar Integration – Option to sync directly with Google Calendar.
