@@ -29,9 +29,14 @@ Run the Program
 
 🔎 Follow the Input Prompts
 	•	The program will ask for course name, meeting days, start and end times, and location.
-	•	Example interaction:
-
-	welcome to this quick and easy iCal generator
+	•	Example interaction listed at the bottom
+📖 Future Improvements
+	•	OCR Support – Allow users to upload images of their class schedules instead of manually entering data.
+	•	Google Calendar Integration – Option to sync directly with Google Calendar.
+ 	•	Web Interface – Build a web-based tool for easier schedule entry.
+	
+ 
+ welcome to this quick and easy iCal generator
 	Choose your time zone
 	1.) New York   2.) Chicago   3.) Denver   4.) Los Angeles
 	Enter a Number: 1
