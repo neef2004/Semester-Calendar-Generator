@@ -37,7 +37,7 @@ Run the Program
  	•	Web Interface – Build a web-based tool for easier schedule entry.
 	
  
- welcome to this quick and easy iCal generator
+ 	welcome to this quick and easy iCal generator
 	Choose your time zone
 	1.) New York   2.) Chicago   3.) Denver   4.) Los Angeles
 	Enter a Number: 1
